@@ -1,0 +1,15 @@
+# Web framework
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# Image processing
+Pillow==10.3.0
+
+# Numerical computing
+numpy==1.26.4
+
+# Lightweight TensorFlow (CPU only)
+tensorflow-cpu==2.16.1
+
+# File upload support
+python-multipart==0.0.9
